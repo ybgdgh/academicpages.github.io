@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Vision Language Models"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/co-navgpt
+date: 2026-01-03
+venue: "IEEE Robotics and Automation Letters (RA-L)"
+paperurl: "https://sites.google.com/view/co-navgpt2"
+citation: "Bangguo Yu, Qihao Yuan, Kailai Li, Hamidreza Kasaei, and Ming Cao. (2026). &quot;Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Vision Language Models.&quot; <i>IEEE Robotics and Automation Letters</i>."
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Project page](https://sites.google.com/view/co-navgpt2)

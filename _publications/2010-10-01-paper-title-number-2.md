@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "PANav: Toward Privacy-Aware Robot Navigation via Vision-Language Models"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/panav
+date: 2026-01-02
+venue: "Under Review"
+paperurl: "https://sites.google.com/view/privacy-aware-nav"
+citation: "Bangguo Yu, Hamidreza Kasaei, and Ming Cao. &quot;PANav: Toward Privacy-Aware Robot Navigation via Vision-Language Models.&quot; Under review."
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Project page](https://sites.google.com/view/privacy-aware-nav)
